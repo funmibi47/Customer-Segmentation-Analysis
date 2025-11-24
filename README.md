@@ -54,8 +54,6 @@ Dataset source: **Kaggle**
 - Converted `InvoiceDate` to datetime  
 - Created a new column:
 
-```python
-df['TotalPrice'] = df['Quantity'] * df['UnitPrice']
 🎯 Key Insights
 
 Cluster 0: High spenders, frequent buyers
